@@ -1,0 +1,4 @@
+crear una página web con un header, menú de navegación, sección principal y
+footer en index.html con tematica de una tienda generica
+
+en style.css dale un estilo generico de tineda moderna
